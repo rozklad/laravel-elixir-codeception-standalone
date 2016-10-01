@@ -1,6 +1,6 @@
 # Laravel-elixir-codeception standalone
 
-This package is original **[Jeffrey Way's](https://github.com/JeffreyWay/laravel-elixir-codeception) laravel-elixir-codeception** module made compatible with laravel-elixir > 6.0.
+**[Jeffrey Way's](https://github.com/JeffreyWay/laravel-elixir-codeception) laravel-elixir-codeception** module made compatible with laravel-elixir > 6.0.
 
 It uses the legacy laravel-elixir code to momic original behavior.
 
