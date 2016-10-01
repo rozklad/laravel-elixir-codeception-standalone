@@ -1,0 +1,28 @@
+
+{
+  "name": "laravel-elixir-codeception-standalone",
+  "version": "0.1.0",
+  "description": "Laravel Elixir wrapper around Codeception Gulp task.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "laravel",
+    "elixir",
+    "codeception"
+  ],
+  "author": "Jan Rozklad",
+  "license": "MIT",
+  "homepage": "https://github.com/rozklad/laravel-elixir-codeception-standalone",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rozklad/laravel-elixir-codeception-standalone"
+  },
+  "dependencies": {
+    "gulp-codeception": "^0.4.3",
+    "gulp-notify": "^2.0.0",
+    "underscore": "^1.7.0"
+  }
+}
