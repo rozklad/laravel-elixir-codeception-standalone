@@ -8,7 +8,6 @@ It uses the legacy laravel-elixir code to momic original behavior.
 
     npm install laravel-elixir-codeception-standalone
 
-
 ## Usage
 
 This is a simple Codeception wrapper around Laravel Elixir. Add it to your Elixir-enhanced Gulpfile, like so:
